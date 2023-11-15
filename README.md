@@ -9,6 +9,8 @@
 
 ---
 
+<img src="./" alt="Project image" title="project" />
+
 ## 🚀 Getting started
 
 Clone the project and access the folder.
