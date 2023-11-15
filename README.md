@@ -9,7 +9,7 @@
 
 ---
 
-<img src="./Assets/template.png" alt="Project image" title="project" />
+<img src="./Assets/template.gif" alt="Project gif" title="project" />
 
 ## 🚀 Getting started
 
