@@ -41,6 +41,7 @@ $ Select SampleScene and click on Run button
 This project was developed with the following technologies:
 <b>
 - Unity
+- C#
 </b>
 
 </br>
