@@ -47,7 +47,7 @@ This project was developed with the following technologies:
 </br>
 
 ## 📄 Project
-💰 .
+💰 Project made on Unity, is a game 2D combining animation, events of click, modals and more.
 
 <br></br>
 
